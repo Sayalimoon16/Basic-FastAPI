@@ -10,7 +10,7 @@ app = FastAPI(
 @app.get("/")
 def home():
     return {
-        "message": "Welcome to my FastAPI project 🚀",
+        "message": "Welcome Sayali 🚀",
         "status": "success"
     }
 
